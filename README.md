@@ -1,30 +1,4 @@
-# GeoAquifer-XAI
-
-## Explainable GeoAI-Based Mapping of Groundwater Contamination Hotspots and Aquifer-Linked BIS Exceedance Risk Across India
-
-**GeoAquifer-XAI** is a reproducible GeoAI workflow for mapping, analysing, predicting, and explaining groundwater contamination hotspots across India. The framework integrates groundwater contamination hotspot data, grid-based geospatial sampling, BIS exceedance thresholds, aquifer-system overlays, machine learning, explainable AI, spatial prediction mapping, and DBSCAN-based clustering.
-
-Repository: [https://github.com/ParthaPRay/GeoAquifer-XAI](https://github.com/ParthaPRay/GeoAquifer-XAI)
-
----
-
-## Main Code File
-
-Due to GitHub file-size limitations, the original notebook version was converted and uploaded as a Python script:
-
-```text
-geoaquifer_xai.py
-````
-
-The script contains the complete workflow originally developed in Google Colab.
-
----
-
-## Suggested Article Title
-
-**GeoAquifer-XAI: Explainable GeoAI-Based Mapping of Groundwater Contamination Hotspots and Aquifer-Linked BIS Exceedance Risk Across India**
-
----
+# Explainable GeoAI-Based Mapping of Groundwater Contamination Hotspots and Aquifer-Linked BIS Exceedance Risk Across India
 
 ## Overview
 
