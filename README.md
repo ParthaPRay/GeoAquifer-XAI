@@ -42,6 +42,12 @@ The workflow standardizes contamination records, applies contaminant-specific BI
 
 ---
 
+## Dataset
+
+The input dataset file `Contamination_Hotspots.xlsx` used in this repository is based on the curated Kaggle dataset [Annual Ground Water Quality Report 2025 India](https://www.kaggle.com/datasets/mynkpandey/annual-ground-water-quality-report-2025-india). This curated dataset was prepared from official groundwater-quality source reports published by the Department of Water Resources, RD & GR, Ministry of Jal Shakti and the Central Ground Water Board (CGWB). The original source documents are available here: [Ministry of Jal Shakti report](https://www.jalshakti-dowr.gov.in/static/uploads/2025/11/2d2afc1bcaa06de10de2f1ffe3276780.pdf) and [CGWB report](https://cgwb.gov.in/cgwbpnm/public/uploads/documents/176302296020936587file.pdf).
+
+---
+
 ## Key Features
 
 ### Groundwater Data Processing
