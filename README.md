@@ -1,6 +1,3 @@
-Yes, that is fine. For GitHub, uploading `geoaquifer_xai.py` is acceptable when the notebook exceeds the 25 MB upload limit. You can update the README like this.
-
-````markdown
 # GeoAquifer-XAI
 
 ## Explainable GeoAI-Based Mapping of Groundwater Contamination Hotspots and Aquifer-Linked BIS Exceedance Risk Across India
